@@ -1,0 +1,28 @@
+Git Workflow
+
+1. Edit
+I created and edited README.md using:
+
+touch README.md
+nano README.md
+
+I added the required project information and the "Why Git Makes Development Easier" section.
+
+
+2. Add
+git add README.md
+
+This stages the changes and prepares them for a commit.
+
+3. Commit
+git commit -m "Add project README"
+
+This saves the staged changes in the local Git repository.
+
+4. Push
+git push
+
+This sends the committed changes to the remote GitHub repository.
+
+Workflow:
+Edit → Add → Commit → Push

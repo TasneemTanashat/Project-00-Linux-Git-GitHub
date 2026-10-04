@@ -1,0 +1,316 @@
+dev_workspace:
+total 24
+drwxr-xr-x 6 tasneem tasneem 4096 Oct  4 10:18 .
+drwxr-xr-x 7 tasneem tasneem 4096 Oct  4 10:18 ..
+drwxr-xr-x 7 tasneem tasneem 4096 Oct  3 18:27 .git
+drwxr-xr-x 2 tasneem tasneem 4096 Oct  1 21:56 archives
+drwxr-xr-x 3 tasneem tasneem 4096 Oct  1 21:58 projects
+drwxr-xr-x 2 tasneem tasneem 4096 Oct  1 21:56 tools
+
+dev_workspace/.git:
+total 48
+drwxr-xr-x  7 tasneem tasneem 4096 Oct  3 18:27 .
+drwxr-xr-x  6 tasneem tasneem 4096 Oct  4 10:18 ..
+-rw-r--r--  1 tasneem tasneem    9 Oct  3 18:27 COMMIT_EDITMSG
+-rw-r--r--  1 tasneem tasneem   21 Oct  3 12:59 HEAD
+-rw-r--r--  1 tasneem tasneem  283 Oct  3 12:59 config
+-rw-r--r--  1 tasneem tasneem   73 Oct  3 12:54 description
+drwxr-xr-x  2 tasneem tasneem 4096 Oct  3 12:54 hooks
+-rw-r--r--  1 tasneem tasneem  853 Oct  3 18:27 index
+drwxr-xr-x  2 tasneem tasneem 4096 Oct  3 12:54 info
+drwxr-xr-x  3 tasneem tasneem 4096 Oct  3 12:58 logs
+drwxr-xr-x 26 tasneem tasneem 4096 Oct  3 18:15 objects
+drwxr-xr-x  5 tasneem tasneem 4096 Oct  3 12:59 refs
+
+dev_workspace/.git/hooks:
+total 72
+drwxr-xr-x 2 tasneem tasneem 4096 Oct  3 12:54 .
+drwxr-xr-x 7 tasneem tasneem 4096 Oct  3 18:27 ..
+-rwxr-xr-x 1 tasneem tasneem  478 Oct  3 12:54 applypatch-msg.sample
+-rwxr-xr-x 1 tasneem tasneem  896 Oct  3 12:54 commit-msg.sample
+-rwxr-xr-x 1 tasneem tasneem 4726 Oct  3 12:54 fsmonitor-watchman.sample
+-rwxr-xr-x 1 tasneem tasneem  189 Oct  3 12:54 post-update.sample
+-rwxr-xr-x 1 tasneem tasneem  424 Oct  3 12:54 pre-applypatch.sample
+-rwxr-xr-x 1 tasneem tasneem 1649 Oct  3 12:54 pre-commit.sample
+-rwxr-xr-x 1 tasneem tasneem  416 Oct  3 12:54 pre-merge-commit.sample
+-rwxr-xr-x 1 tasneem tasneem 1374 Oct  3 12:54 pre-push.sample
+-rwxr-xr-x 1 tasneem tasneem 4898 Oct  3 12:54 pre-rebase.sample
+-rwxr-xr-x 1 tasneem tasneem  544 Oct  3 12:54 pre-receive.sample
+-rwxr-xr-x 1 tasneem tasneem 1492 Oct  3 12:54 prepare-commit-msg.sample
+-rwxr-xr-x 1 tasneem tasneem 2783 Oct  3 12:54 push-to-checkout.sample
+-rwxr-xr-x 1 tasneem tasneem 2308 Oct  3 12:54 sendemail-validate.sample
+-rwxr-xr-x 1 tasneem tasneem 3650 Oct  3 12:54 update.sample
+
+dev_workspace/.git/info:
+total 12
+drwxr-xr-x 2 tasneem tasneem 4096 Oct  3 12:54 .
+drwxr-xr-x 7 tasneem tasneem 4096 Oct  3 18:27 ..
+-rw-r--r-- 1 tasneem tasneem  240 Oct  3 12:54 exclude
+
+dev_workspace/.git/logs:
+total 16
+drwxr-xr-x 3 tasneem tasneem 4096 Oct  3 12:58 .
+drwxr-xr-x 7 tasneem tasneem 4096 Oct  3 18:27 ..
+-rw-r--r-- 1 tasneem tasneem 1100 Oct  3 18:15 HEAD
+drwxr-xr-x 4 tasneem tasneem 4096 Oct  3 12:59 refs
+
+dev_workspace/.git/logs/refs:
+total 16
+drwxr-xr-x 4 tasneem tasneem 4096 Oct  3 12:59 .
+drwxr-xr-x 3 tasneem tasneem 4096 Oct  3 12:58 ..
+drwxr-xr-x 2 tasneem tasneem 4096 Oct  3 12:59 heads
+drwxr-xr-x 3 tasneem tasneem 4096 Oct  3 12:59 remotes
+
+dev_workspace/.git/logs/refs/heads:
+total 12
+drwxr-xr-x 2 tasneem tasneem 4096 Oct  3 12:59 .
+drwxr-xr-x 4 tasneem tasneem 4096 Oct  3 12:59 ..
+-rw-r--r-- 1 tasneem tasneem  900 Oct  3 18:15 main
+
+dev_workspace/.git/logs/refs/remotes:
+total 12
+drwxr-xr-x 3 tasneem tasneem 4096 Oct  3 12:59 .
+drwxr-xr-x 4 tasneem tasneem 4096 Oct  3 12:59 ..
+drwxr-xr-x 2 tasneem tasneem 4096 Oct  3 12:59 origin
+
+dev_workspace/.git/logs/refs/remotes/origin:
+total 12
+drwxr-xr-x 2 tasneem tasneem 4096 Oct  3 12:59 .
+drwxr-xr-x 3 tasneem tasneem 4096 Oct  3 12:59 ..
+-rw-r--r-- 1 tasneem tasneem  648 Oct  3 18:15 main
+
+dev_workspace/.git/objects:
+total 104
+drwxr-xr-x 26 tasneem tasneem 4096 Oct  3 18:15 .
+drwxr-xr-x  7 tasneem tasneem 4096 Oct  3 18:27 ..
+drwxr-xr-x  2 tasneem tasneem 4096 Oct  3 13:25 0d
+drwxr-xr-x  2 tasneem tasneem 4096 Oct  3 13:25 11
+drwxr-xr-x  2 tasneem tasneem 4096 Oct  3 12:58 14
+drwxr-xr-x  2 tasneem tasneem 4096 Oct  3 12:58 1f
+drwxr-xr-x  2 tasneem tasneem 4096 Oct  3 18:15 21
+drwxr-xr-x  2 tasneem tasneem 4096 Oct  3 18:10 42
+drwxr-xr-x  2 tasneem tasneem 4096 Oct  3 12:58 6c
+drwxr-xr-x  2 tasneem tasneem 4096 Oct  3 12:58 6e
+drwxr-xr-x  2 tasneem tasneem 4096 Oct  3 18:10 81
+drwxr-xr-x  2 tasneem tasneem 4096 Oct  3 13:25 8c
+drwxr-xr-x  2 tasneem tasneem 4096 Oct  3 12:58 9e
+drwxr-xr-x  2 tasneem tasneem 4096 Oct  3 13:25 9f
+drwxr-xr-x  2 tasneem tasneem 4096 Oct  3 18:10 a5
+drwxr-xr-x  2 tasneem tasneem 4096 Oct  3 12:58 b2
+drwxr-xr-x  2 tasneem tasneem 4096 Oct  3 12:58 b9
+drwxr-xr-x  2 tasneem tasneem 4096 Oct  3 18:15 c5
+drwxr-xr-x  2 tasneem tasneem 4096 Oct  3 12:58 d0
+drwxr-xr-x  2 tasneem tasneem 4096 Oct  3 13:25 e3
+drwxr-xr-x  2 tasneem tasneem 4096 Oct  3 12:58 e8
+drwxr-xr-x  2 tasneem tasneem 4096 Oct  3 12:58 ea
+drwxr-xr-x  2 tasneem tasneem 4096 Oct  3 18:10 f0
+drwxr-xr-x  2 tasneem tasneem 4096 Oct  3 18:10 f5
+drwxr-xr-x  2 tasneem tasneem 4096 Oct  3 12:54 info
+drwxr-xr-x  2 tasneem tasneem 4096 Oct  3 12:54 pack
+
+dev_workspace/.git/objects/0d:
+total 16
+drwxr-xr-x  2 tasneem tasneem 4096 Oct  3 13:25 .
+drwxr-xr-x 26 tasneem tasneem 4096 Oct  3 18:15 ..
+-r--r--r--  1 tasneem tasneem  238 Oct  3 12:58 03b36d678dba99b7fa6f55a540a43ea9eceb61
+-r--r--r--  1 tasneem tasneem  122 Oct  3 13:25 bf8b4210806748aa9532dda34e1563f55fb105
+
+dev_workspace/.git/objects/11:
+total 12
+drwxr-xr-x  2 tasneem tasneem 4096 Oct  3 13:25 .
+drwxr-xr-x 26 tasneem tasneem 4096 Oct  3 18:15 ..
+-r--r--r--  1 tasneem tasneem  148 Oct  3 13:25 520baa188c38bb99a2e0ef3207e3ae6a10ad29
+
+dev_workspace/.git/objects/14:
+total 12
+drwxr-xr-x  2 tasneem tasneem 4096 Oct  3 12:58 .
+drwxr-xr-x 26 tasneem tasneem 4096 Oct  3 18:15 ..
+-r--r--r--  1 tasneem tasneem  134 Oct  3 12:58 13007fade78fba4e56a690e322c710a12378ea
+
+dev_workspace/.git/objects/1f:
+total 12
+drwxr-xr-x  2 tasneem tasneem 4096 Oct  3 12:58 .
+drwxr-xr-x 26 tasneem tasneem 4096 Oct  3 18:15 ..
+-r--r--r--  1 tasneem tasneem  101 Oct  3 18:15 ad37daa2e8ae486e565b8b9c01ad60a6fad953
+
+dev_workspace/.git/objects/21:
+total 12
+drwxr-xr-x  2 tasneem tasneem 4096 Oct  3 18:15 .
+drwxr-xr-x 26 tasneem tasneem 4096 Oct  3 18:15 ..
+-r--r--r--  1 tasneem tasneem  122 Oct  3 18:15 8c278e81436ac36a0880743f2244279ac0280e
+
+dev_workspace/.git/objects/42:
+total 12
+drwxr-xr-x  2 tasneem tasneem 4096 Oct  3 18:10 .
+drwxr-xr-x 26 tasneem tasneem 4096 Oct  3 18:15 ..
+-r--r--r--  1 tasneem tasneem  307 Oct  3 18:10 88d104bfd667dfa327957374505a5e81e8b658
+
+dev_workspace/.git/objects/6c:
+total 12
+drwxr-xr-x  2 tasneem tasneem 4096 Oct  3 12:58 .
+drwxr-xr-x 26 tasneem tasneem 4096 Oct  3 18:15 ..
+-r--r--r--  1 tasneem tasneem  125 Oct  3 12:58 71557a7858577d8d8c6b111a4b827bdeeee347
+
+dev_workspace/.git/objects/6e:
+total 12
+drwxr-xr-x  2 tasneem tasneem 4096 Oct  3 12:58 .
+drwxr-xr-x 26 tasneem tasneem 4096 Oct  3 18:15 ..
+-r--r--r--  1 tasneem tasneem  302 Oct  3 12:58 97954be12661220141b78fc81f4d1e2c04971e
+
+dev_workspace/.git/objects/81:
+total 12
+drwxr-xr-x  2 tasneem tasneem 4096 Oct  3 18:10 .
+drwxr-xr-x 26 tasneem tasneem 4096 Oct  3 18:15 ..
+-r--r--r--  1 tasneem tasneem  168 Oct  3 18:10 785478f6473c685e73a9140e2063c518dc8db0
+
+dev_workspace/.git/objects/8c:
+total 12
+drwxr-xr-x  2 tasneem tasneem 4096 Oct  3 13:25 .
+drwxr-xr-x 26 tasneem tasneem 4096 Oct  3 18:15 ..
+-r--r--r--  1 tasneem tasneem  175 Oct  3 13:25 df3021e3ea7be73d9534a4d2761ae84174d5ec
+
+dev_workspace/.git/objects/9e:
+total 12
+drwxr-xr-x  2 tasneem tasneem 4096 Oct  3 12:58 .
+drwxr-xr-x 26 tasneem tasneem 4096 Oct  3 18:15 ..
+-r--r--r--  1 tasneem tasneem   61 Oct  3 12:58 3757bb2b512bb7c413b868593208eb1f38c6a5
+
+dev_workspace/.git/objects/9f:
+total 12
+drwxr-xr-x  2 tasneem tasneem 4096 Oct  3 13:25 .
+drwxr-xr-x 26 tasneem tasneem 4096 Oct  3 18:15 ..
+-r--r--r--  1 tasneem tasneem   88 Oct  3 13:25 da81fdcecfd9fd41df6de56b65060a05d33540
+
+dev_workspace/.git/objects/a5:
+total 12
+drwxr-xr-x  2 tasneem tasneem 4096 Oct  3 18:10 .
+drwxr-xr-x 26 tasneem tasneem 4096 Oct  3 18:15 ..
+-r--r--r--  1 tasneem tasneem  124 Oct  3 18:10 d9b93c39e1453e8e152652fe5d6523069b036c
+
+dev_workspace/.git/objects/b2:
+total 12
+drwxr-xr-x  2 tasneem tasneem 4096 Oct  3 12:58 .
+drwxr-xr-x 26 tasneem tasneem 4096 Oct  3 18:15 ..
+-r--r--r--  1 tasneem tasneem   32 Oct  3 18:10 cb906dbd92d0a275712abf92fbc6baf227ad36
+
+dev_workspace/.git/objects/b9:
+total 12
+drwxr-xr-x  2 tasneem tasneem 4096 Oct  3 12:58 .
+drwxr-xr-x 26 tasneem tasneem 4096 Oct  3 18:15 ..
+-r--r--r--  1 tasneem tasneem  469 Oct  3 12:58 e28f2893619a6ba5275a6934c7410ba377101a
+
+dev_workspace/.git/objects/c5:
+total 12
+drwxr-xr-x  2 tasneem tasneem 4096 Oct  3 18:15 .
+drwxr-xr-x 26 tasneem tasneem 4096 Oct  3 18:15 ..
+-r--r--r--  1 tasneem tasneem  168 Oct  3 18:15 b76b0056c444e22d5d9016cd37ce4be7bf810a
+
+dev_workspace/.git/objects/d0:
+total 12
+drwxr-xr-x  2 tasneem tasneem 4096 Oct  3 12:58 .
+drwxr-xr-x 26 tasneem tasneem 4096 Oct  3 18:15 ..
+-r--r--r--  1 tasneem tasneem  118 Oct  3 12:58 c8fae07fce079505f15510a94085692d8c67e5
+
+dev_workspace/.git/objects/e3:
+total 12
+drwxr-xr-x  2 tasneem tasneem 4096 Oct  3 13:25 .
+drwxr-xr-x 26 tasneem tasneem 4096 Oct  3 18:15 ..
+-r--r--r--  1 tasneem tasneem   74 Oct  3 13:25 6c5c85217f76753455c24445641b831cc025f7
+
+dev_workspace/.git/objects/e8:
+total 12
+drwxr-xr-x  2 tasneem tasneem 4096 Oct  3 12:58 .
+drwxr-xr-x 26 tasneem tasneem 4096 Oct  3 18:15 ..
+-r--r--r--  1 tasneem tasneem  123 Oct  3 12:58 dec89774c1b4aee0e760912613f4c729dbee51
+
+dev_workspace/.git/objects/ea:
+total 12
+drwxr-xr-x  2 tasneem tasneem 4096 Oct  3 12:58 .
+drwxr-xr-x 26 tasneem tasneem 4096 Oct  3 18:15 ..
+-r--r--r--  1 tasneem tasneem  143 Oct  3 12:58 05bc11db63274f86f2cbba88e8d2c02aef9fd2
+
+dev_workspace/.git/objects/f0:
+total 12
+drwxr-xr-x  2 tasneem tasneem 4096 Oct  3 18:10 .
+drwxr-xr-x 26 tasneem tasneem 4096 Oct  3 18:15 ..
+-r--r--r--  1 tasneem tasneem  134 Oct  3 18:10 2f4f48267a032b4a9337f2ee6b5bd714d81479
+
+dev_workspace/.git/objects/f5:
+total 12
+drwxr-xr-x  2 tasneem tasneem 4096 Oct  3 18:10 .
+drwxr-xr-x 26 tasneem tasneem 4096 Oct  3 18:15 ..
+-r--r--r--  1 tasneem tasneem  122 Oct  3 18:10 219b1ba788fa87d44d5b6bea00609175b35b3f
+
+dev_workspace/.git/objects/info:
+total 8
+drwxr-xr-x  2 tasneem tasneem 4096 Oct  3 12:54 .
+drwxr-xr-x 26 tasneem tasneem 4096 Oct  3 18:15 ..
+
+dev_workspace/.git/objects/pack:
+total 8
+drwxr-xr-x  2 tasneem tasneem 4096 Oct  3 12:54 .
+drwxr-xr-x 26 tasneem tasneem 4096 Oct  3 18:15 ..
+
+dev_workspace/.git/refs:
+total 20
+drwxr-xr-x 5 tasneem tasneem 4096 Oct  3 12:59 .
+drwxr-xr-x 7 tasneem tasneem 4096 Oct  3 18:27 ..
+drwxr-xr-x 2 tasneem tasneem 4096 Oct  3 18:15 heads
+drwxr-xr-x 3 tasneem tasneem 4096 Oct  3 12:59 remotes
+drwxr-xr-x 2 tasneem tasneem 4096 Oct  3 12:54 tags
+
+dev_workspace/.git/refs/heads:
+total 12
+drwxr-xr-x 2 tasneem tasneem 4096 Oct  3 18:15 .
+drwxr-xr-x 5 tasneem tasneem 4096 Oct  3 12:59 ..
+-rw-r--r-- 1 tasneem tasneem   41 Oct  3 18:15 main
+
+dev_workspace/.git/refs/remotes:
+total 12
+drwxr-xr-x 3 tasneem tasneem 4096 Oct  3 12:59 .
+drwxr-xr-x 5 tasneem tasneem 4096 Oct  3 12:59 ..
+drwxr-xr-x 2 tasneem tasneem 4096 Oct  3 18:27 origin
+
+dev_workspace/.git/refs/remotes/origin:
+total 12
+drwxr-xr-x 2 tasneem tasneem 4096 Oct  3 18:27 .
+drwxr-xr-x 3 tasneem tasneem 4096 Oct  3 12:59 ..
+-rw-r--r-- 1 tasneem tasneem   41 Oct  3 18:15 main
+
+dev_workspace/.git/refs/tags:
+total 8
+drwxr-xr-x 2 tasneem tasneem 4096 Oct  3 12:54 .
+drwxr-xr-x 5 tasneem tasneem 4096 Oct  3 12:59 ..
+
+dev_workspace/archives:
+total 8
+drwxr-xr-x 2 tasneem tasneem 4096 Oct  1 21:56 .
+drwxr-xr-x 6 tasneem tasneem 4096 Oct  4 10:18 ..
+
+dev_workspace/projects:
+total 12
+drwxr-xr-x 3 tasneem tasneem 4096 Oct  1 21:58 .
+drwxr-xr-x 6 tasneem tasneem 4096 Oct  4 10:18 ..
+drwxr-xr-x 4 tasneem tasneem 4096 Oct  1 21:58 web
+
+dev_workspace/projects/web:
+total 16
+drwxr-xr-x 4 tasneem tasneem 4096 Oct  1 21:58 .
+drwxr-xr-x 3 tasneem tasneem 4096 Oct  1 21:58 ..
+drwxr-xr-x 2 tasneem tasneem 4096 Oct  1 21:58 backend
+drwxr-xr-x 2 tasneem tasneem 4096 Oct  1 21:58 frontend
+
+dev_workspace/projects/web/backend:
+total 8
+drwxr-xr-x 2 tasneem tasneem 4096 Oct  1 21:58 .
+drwxr-xr-x 4 tasneem tasneem 4096 Oct  1 21:58 ..
+
+dev_workspace/projects/web/frontend:
+total 8
+drwxr-xr-x 2 tasneem tasneem 4096 Oct  1 21:58 .
+drwxr-xr-x 4 tasneem tasneem 4096 Oct  1 21:58 ..
+
+dev_workspace/tools:
+total 8
+drwxr-xr-x 2 tasneem tasneem 4096 Oct  1 21:56 .
+drwxr-xr-x 6 tasneem tasneem 4096 Oct  4 10:18 ..
